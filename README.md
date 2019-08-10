@@ -4,13 +4,15 @@
 
 ###  20190811
 
-- [今日热榜](https://tophub.today/) 一个整合了百度、微博、微信、知乎等热榜的网站
-- [腾讯软件源](https://mirrors.cloud.tencent.com/)，[阿里云镜像](https://opsx.alibaba.com/mirror)
-- [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)  mark 下回头慢慢看
-- [2019一线开发分享资料](https://github.com/0voice/from_coder_to_expert)
-- [Soloπ](https://github.com/alipay/SoloPi) Android 端自动化测试工具，类似腾讯的 GT
 - [技术人如何通过了解业务，获取晋升机会？]() 理解业务更多是理解了运营决策背后的原因，理解了网站各个角色的诉求和痛点，理解了自己做的产品和项目对业务的价值和影响，让自己更加有使命感，也能对项目分清轻重缓急，并且有机会产生驱动业务的技术产品。
 - [不断丰富自己的经验数据库](https://mp.weixin.qq.com/s/-ClmTz_dEQsxXCbX2YlUxA) 要打造属于自己的 codebase
+- [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
+- [Android架构文章合集](https://github.com/Juude/Awesome-Android-Architecture)
+- [2019一线开发分享资料](https://github.com/0voice/from_coder_to_expert)
+- [今日热榜](https://tophub.today/) 一个整合了百度、微博、微信、知乎等热榜的网站
+- [腾讯软件源](https://mirrors.cloud.tencent.com/)，[阿里云镜像](https://opsx.alibaba.com/mirror)
+- [Soloπ](https://github.com/alipay/SoloPi) Android 端自动化测试工具，类似腾讯的 GT
+- [腾讯微视：向前一步是悲壮，向后一步是绝望](https://mp.weixin.qq.com/s/lqTldS_KaLuapxxlg7zENw) 尴尬的微视
 
 
 
