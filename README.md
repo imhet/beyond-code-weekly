@@ -2,9 +2,16 @@
 
 代码之外周刊。精选一些写代码之余看的文章，扩宽视野。
 
+
+### 20190818
+
+- [人机交互的未来，掌握在超级终端公司手上](https://mp.weixin.qq.com/s/eg355ofMWjmbYeqdvcflUw) 真正在乎软件的公司应该自己做硬件
+
+
+
 ###  20190811
 
-- [技术人如何通过了解业务，获取晋升机会？]() 理解业务更多是理解了运营决策背后的原因，理解了网站各个角色的诉求和痛点，理解了自己做的产品和项目对业务的价值和影响，让自己更加有使命感，也能对项目分清轻重缓急，并且有机会产生驱动业务的技术产品。
+- [技术人如何通过了解业务，获取晋升机会？](https://mp.weixin.qq.com/s/o4CfgIcPibG_QxrsZ4x7sA) 理解业务更多是理解了运营决策背后的原因，理解了网站各个角色的诉求和痛点，理解了自己做的产品和项目对业务的价值和影响，让自己更加有使命感，也能对项目分清轻重缓急，并且有机会产生驱动业务的技术产品。
 - [不断丰富自己的经验数据库](https://mp.weixin.qq.com/s/-ClmTz_dEQsxXCbX2YlUxA) 要打造属于自己的 codebase
 - [架构师技术图谱，助你早日成为架构师](https://github.com/toutiaoio/awesome-architecture)
 - [Android架构文章合集](https://github.com/Juude/Awesome-Android-Architecture)
