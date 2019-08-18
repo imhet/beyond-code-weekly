@@ -7,8 +7,10 @@
 
 - [人机交互的未来，掌握在超级终端公司手上](https://mp.weixin.qq.com/s/eg355ofMWjmbYeqdvcflUw) 真正在乎软件的公司应该自己做硬件
 - [阿里架构总监一次讲透中台架构，13页PPT精华详解](https://mp.weixin.qq.com/s/nhEAz62-lJbYC4qJTvIoRw) 阿里 13 位技术专家分享的中台架构图
+- [聊聊头条做搜索](https://mp.weixin.qq.com/s/DESvHfOTM3CDRIzJGMM9lw) 对搜索讲的很透彻
 - [赚钱的底层逻辑，变了！](https://mp.weixin.qq.com/s/T0r_Pdk7uHG9j6Id7DFHOg) 产业互联网的关键是场景数字化
 - [华为们的“未来电视”争夺战](https://www.huxiu.com/article/312875.html)华为智慧屏是否会给客厅带来变化？
+- [大前端开发者需要了解的基础编译原理和语言知识](https://juejin.im/post/594e77ef5188250d9e6504bc)
 
 
 
