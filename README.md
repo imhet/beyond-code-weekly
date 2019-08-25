@@ -2,6 +2,19 @@
 
 代码之外周刊。精选一些写代码之余看的文章，扩宽视野。
 
+### 20190825
+
+
+- [如何用风控拯救下架的小红书](https://mp.weixin.qq.com/s/LchpngIIBqDwejWbFV3E8A) 介绍了做内容风控的一些方法：敏感词过滤，决策引擎，用户关系网络横向纵向挖掘，app加固。
+- [做了8年平台，我总结了平台的5道坎](https://mp.weixin.qq.com/s/3M58Ise7K9ou7tdX84sZCw) 美团总裁分享打造平台的方法论，想做平台的可以精读下
+- [字节跳动的敌人只有时间](https://mp.weixin.qq.com/s/TTTD95x1hdbl1QD4JSLCQQ) 字节跳动四处出击其实是流量增长到顶的焦虑，同时为上市讲好故事
+- [对抗“35岁危机”](https://mp.weixin.qq.com/s/2ZixQPxyAz05rV1_N0KXUQ) 阅读《反脆弱》，不断学习，增加个人反脆弱性
+- [职场中年，请把工资收入变为次要收入](https://mp.weixin.qq.com/s/Nh8o7xqg2N40P4ywFZR5AA) 辉哥这篇文章可看做是上面一篇的具体化，收入多元化其实就是反脆弱
+- [河南乡村里的“AI”：拍人像、集眼袋、教人工智能认识桌椅](https://mp.weixin.qq.com/s/eZjHPntpYtL-3xCFOpZ17Q) 人工标注类的工作为 AI 成长提供了不可缺少的养料
+- [日系静电容键盘入门指南](https://post.smzdm.com/p/527216/) 被种草了 HHKB，一摸口袋最终买了 niz
+- [不吹不黑聊聊新加坡互联网](https://en.100offer.com/blog/posts/245) 可以对新加坡互联网有一定了解
+- [知乎移动端动态化方案 ：Morph](https://mp.weixin.qq.com/s/zL1SeUovyC5mUdXHje0umA)  在Google-FlexboxLayout基础上扩展 DSL 动态下发样式完成动态化
+
 
 ### 20190818
 
