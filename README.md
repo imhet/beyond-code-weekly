@@ -1,8 +1,23 @@
-# beyond-code-weekly
+代码之外周刊。精选一些工作之余看的文章，扩宽技术视野。
 
-代码之外周刊。精选一些写代码之余看的文章，扩宽视野。
+---
 
-### 20190825
+### 第 9 期 20190901
+
+- [马云退休之际再论BAT](https://mp.weixin.qq.com/s/AMjahXpBfMkhgCNtzuZf6w)
+- [QuestMobile2019中国智能终端市场半年报告](https://mp.weixin.qq.com/s/ZYznoYtQ07DIj4J_84T7rg) 华为手机即将赶超苹果，手机之外硬件成暗战战场
+- [任正非管理思想](http://www.ruanyifeng.com/blog/2019/08/ren-zhengfei.html) 阮一峰总结的任正非的管理思想。危机感，重视利润，降低成本，裁员，奋斗...
+- [国民APP预装简史——头条百度们的暗战江湖](https://mp.weixin.qq.com/s/018xBz92O9xL3kNl4TWvSA) 当时有些手机厂商主动表示要预装微信，但是张小龙觉得没有这个必要。
+- [2019年大前端趋势分析 - 下篇](https://mp.weixin.qq.com/s/Ndu-gipPLNlP4kEQwkyOUg) 分析技术趋势的思路值得学习
+- [最全中文 LeetCode 题解项目助你学好算法！](https://mp.weixin.qq.com/s/-ZFZ9IgBtR_GydnGp4x-8w) 看起来很 NB ，先 mark
+- [面试前都需要做些什么准备？](https://www.zhihu.com/question/25039418/answer/805320563) 里面有个回答有点意思：面试前统计完市面上几乎所有问题，这种思路值得借鉴
+- [万般皆下品，唯有收租高](https://mp.weixin.qq.com/s/vEcF7S0apYKKFmHA6VQvIQ) 做平台，躺着赚钱
+- [一个 to B 创业者的途中思考](https://mp.weixin.qq.com/s/_IL0jdjwOh7kzCZwKElLzA)
+- [你是否，也站到了技术or管理的十字路口？](https://mp.weixin.qq.com/s/vE8X5yxh7o76zw0ecsBjig) 里面的4 张能力图还不错，其它可以不看
+- [Google 收集的鸟叫声数据库约1.2w+](https://experiments.withgoogle.com/ai/bird-sounds/view/) 这个数据库挺有意思，在 PC 上用方向键来滑动可以听不同的鸟叫声，如果做成游戏来玩会不会更有意思？
+
+
+### 第 8 期 20190825
 
 
 - [如何用风控拯救下架的小红书](https://mp.weixin.qq.com/s/LchpngIIBqDwejWbFV3E8A) 介绍了做内容风控的一些方法：敏感词过滤，决策引擎，用户关系网络横向纵向挖掘，app加固。
@@ -13,10 +28,10 @@
 - [河南乡村里的“AI”：拍人像、集眼袋、教人工智能认识桌椅](https://mp.weixin.qq.com/s/eZjHPntpYtL-3xCFOpZ17Q) 人工标注类的工作为 AI 成长提供了不可缺少的养料
 - [日系静电容键盘入门指南](https://post.smzdm.com/p/527216/) 被种草了 HHKB，一摸口袋最终买了 niz
 - [不吹不黑聊聊新加坡互联网](https://en.100offer.com/blog/posts/245) 可以对新加坡互联网有一定了解
-- [知乎移动端动态化方案 ：Morph](https://mp.weixin.qq.com/s/zL1SeUovyC5mUdXHje0umA)  在Google-FlexboxLayout基础上扩展 DSL 动态下发样式完成动态化
+- [知乎移动端动态化方案 ：Morph](https://mp.weixin.qq.com/s/zL1SeUovyC5mUdXHje0umA)  在Google-FlexboxLayout基础上扩展 DSL 实现动态下发样式
 
 
-### 20190818
+### 第 7 期 20190818
 
 - [人机交互的未来，掌握在超级终端公司手上](https://mp.weixin.qq.com/s/eg355ofMWjmbYeqdvcflUw) 真正在乎软件的公司应该自己做硬件
 - [阿里架构总监一次讲透中台架构，13页PPT精华详解](https://mp.weixin.qq.com/s/nhEAz62-lJbYC4qJTvIoRw) 阿里 13 位技术专家分享的中台架构图
@@ -27,7 +42,7 @@
 
 
 
-###  20190811
+### 第 6 期 20190811
 
 - [技术人如何通过了解业务，获取晋升机会？](https://mp.weixin.qq.com/s/o4CfgIcPibG_QxrsZ4x7sA) 理解业务更多是理解了运营决策背后的原因，理解了网站各个角色的诉求和痛点，理解了自己做的产品和项目对业务的价值和影响，让自己更加有使命感，也能对项目分清轻重缓急，并且有机会产生驱动业务的技术产品。
 - [不断丰富自己的经验数据库](https://mp.weixin.qq.com/s/-ClmTz_dEQsxXCbX2YlUxA) 要打造属于自己的 codebase
@@ -41,7 +56,7 @@
 
 
 
-###  20190804
+### 第 5 期 20190804
 
 - [我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA) 对中台是什么、有什么类型、目前困境和现状以及建议讲的很清楚
 - [推荐算法工程师的成长之道](https://mp.weixin.qq.com/s/Ceo6z-NXHoU-6Sjly927RQ)  看得我都想转了
@@ -57,7 +72,7 @@
 - [三次创业，三次跨界，这次凭十万行核心 C 代码登上 GitHub Top 1！](https://mp.weixin.qq.com/s/TkPuNvmkQ5O6AHj0_LTO4g)  TDengine 的产品定位值得借鉴
 
 
-###  20190728
+### 第 4 期 20190728
 
 - [如何做一个小型公司的技术总监](https://mp.weixin.qq.com/s/XNGwQH4Rk2uWgPnpBKmtvA) 小型公司技术总监应做好开发、培训和管理三方面工作，把项目管理工作委派给项目经理来完成
 - [天眼查、企查查、启信宝，“三查”大战商业查询](https://mp.weixin.qq.com/s/5_AIJ_rlneSQ4Qg5NGtfeg) 了解下目前主流的商业查询产品
@@ -78,7 +93,7 @@
 - [李国庆是如何被逐出当当网的？](https://mp.weixin.qq.com/s/4-hXJvjjMMEs9BN7fU2lfg) 夫妻店不好开
 
 
-###  20190721
+### 第 3 期  20190721
 
 - [历时1年，上百万行代码！首次揭秘手淘全链路性能优化（上）](https://mp.weixin.qq.com/s/PiqnHezWKWUU0byEhrboRg) 手机淘宝启动框架，核心是任务调度和网络链路优化
 - [什么是费曼技巧？](https://www.zhihu.com/question/20585936/answer/731163030) 用大白话向别人解释新知识
@@ -93,7 +108,7 @@
 - [Flutter实战电子书](https://github.com/flutterchina/flutter-in-action)
 
 
-###  20190714
+### 第 2 期 20190714
 
 - [关于Android学习的三个终极问题](https://mp.weixin.qq.com/s/35mwjD19q2AMOsjAnOmBbA) 学什么？怎么学？学到什么程度？
 - [百度App组件化之路](https://mp.weixin.qq.com/s/P-vREnrw4xGyhiugpzB-1Q)
@@ -102,7 +117,7 @@
 - [油腻老男人是怎样在酒局中设计年轻女孩的？](https://mp.weixin.qq.com/s/wcCbgRUVfdoZ6N4VO-UV5A) 油腻老男人最擅长的一件事，就是把性侵伪装成约炮
 
 
-###  20190707
+### 第 1 期 20190707
 
 - [Google Maps的故事](https://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650006958&idx=1&sn=7f91d56c1ae69bb17b75fdad6ccfaf8a) 很精彩的产品成长史
 - [在阿里写了8年代码后，我才明白这些道理](https://mp.weixin.qq.com/s/8RFBci5SpxVfpstZgXooFw)
