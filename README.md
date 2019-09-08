@@ -11,7 +11,7 @@
 - [阿里战美团：仇敌的交锋](https://36kr.com/p/5243651) 美团和阿里的外卖攻防战
 - [AI 与机器人的42个大问题](https://ai.yanxishe.com/page/resourceDetail/988) 腾讯 AI Lab 出的 “ AI 与机器人的42个大问题 ”，思考人、AI与机器人的长远未来
 - [保持直视对方双眼](https://mp.weixin.qq.com/s/tQEKJGMxOZ3I2s24-NibKQ) 这是一项很不错技能，对于增强自信心很有帮助。曾经还玩过一个在线对视的游戏
-- [中国这个千亿级产业链会转到东南亚吗？一个有5.8万家民企和46家上市公司的县级市笑了……](https://mp.weixin.qq.com/s/oAO
+- [中国这个千亿级产业链会转到东南亚吗？一个有5.8万家民企和46家上市公司的县级市笑了……](https://mp.weixin.qq.com/s/oAO)
 
 
 ### 第 9 期 20190901
