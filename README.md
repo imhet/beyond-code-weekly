@@ -11,7 +11,14 @@
 - [阿里战美团：仇敌的交锋](https://36kr.com/p/5243651) 美团和阿里的外卖攻防战
 - [AI 与机器人的42个大问题](https://ai.yanxishe.com/page/resourceDetail/988) 腾讯 AI Lab 出的 “ AI 与机器人的42个大问题 ”，思考人、AI与机器人的长远未来
 - [保持直视对方双眼](https://mp.weixin.qq.com/s/tQEKJGMxOZ3I2s24-NibKQ) 这是一项很不错技能，对于增强自信心很有帮助。曾经还玩过一个在线对视的游戏
-- [中国这个千亿级产业链会转到东南亚吗？一个有5.8万家民企和46家上市公司的县级市笑了……](https://mp.weixin.qq.com/s/oAO)
+- [中国这个千亿级产业链会转到东南亚吗？一个有5.8万家民企和46家上市公司的县级市笑了……](https://mp.weixin.qq.com/s/oAOvgQmEH4htJVqfzN_XlQ) 晋江经济很不错，这篇文章可以做为了解
+- [抠图神器](https://www.remove.bg) 抠的还不错，可以通过修改 UA 绕过次数限制
+- [36岁，被单位解聘，我干起了深夜外卖](https://mp.weixin.qq.com/s/s5r9Xq8NRoI41a4OmY-qlA) 成年人的世界没有容易
+- [再坚持一下，你的奶茶店马上破产](https://mp.weixin.qq.com/s/w4PeGsmF5hflhfi3j-TRug) 开奶茶店的各种坑，韭菜必读
+- [为什么损坏掉了的视频数据通常是绿色的？](https://www.zhihu.com/question/295588714/answer/498990865) 视频小知识
+- [官方明示，万亿利好将至](https://mp.weixin.qq.com/s/36x0wDGKSB6hKaClK2Yy1w) 可以加仓了
+- [京东技术中台的Flutter实践之路](https://mp.weixin.qq.com/s/5cmYG_WzyQKlnPNhpsd0oQ)
+- [Java字节码增强探秘](https://mp.weixin.qq.com/s/CH9D-E7fxuu462Q2S3t0AA) 看评论说写的很通俗易懂，先 MARK 下
 
 
 ### 第 9 期 20190901
