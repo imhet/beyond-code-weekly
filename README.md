@@ -2,6 +2,22 @@
 
 ---
 
+
+### 第 11 期 20190915
+
+> 真正的光明决不是永没有黑暗的时间，只是永不被黑暗所掩蔽罢了。真正的英雄决不是永没有卑下的情操，只是永不被卑下的情操所屈服罢了。所以在你要战胜外来的敌人之前，先得战胜你内在的敌人；你不必害怕沉沦堕落，只消你能不断的自拔与更新。
+
+- [蔡志忠：努力是没有用的](https://www.yuque.com/book-academy/share/shp7tu) 没找对方向，努力是没用的。要把重心放在解决更多的问题上，而不是纠结于如何完美地解决一个问题。
+- [为何中国肯下血本在西方不做的亏本买卖上？](https://finance.sina.cn/china/gncj/2019-05-31/detail-ihvhiqay2662671.d.html) Quora上有人问：如果中国有那么多钱给其他国家投资，为什么不用这些钱来发展中国的贫困地区呢？ 链接是一个剑桥博士的回答
+- [不敢在深夜点开的8.5分神作，成年人才懂它的残酷](https://mp.weixin.qq.com/s/WPP-1VSDJ8ksyunbaotGsw) 麦兜的故事，平凡的人的生活也可以过得很温暖
+- [李开复“背叛”的初心和失去的光环](https://mp.weixin.qq.com/s/b_amL8fbg7oCdLwuU0xLbw) 李开复老师的转变历程，并不像标题说的那样"背叛"
+- [快手徐欣：视频是我们这代人的特权](https://mp.weixin.qq.com/s/FulTZi00_FP6wIfpYCT7sg) 流量调控基于普惠和基尼系数原则，希望不断发展的快手能不忘初心
+- [大厂员工转型记](https://mp.weixin.qq.com/s/UkMPPWqQGTwsawlESPk9-g) 3个互联网大厂的员工离职后的心路历程
+- [字节跳动的工厂化思维](https://mp.weixin.qq.com/s/hFqOF-IbPccsbuBtNePAPg) 里面提到的文档《西贝餐饮管理公司单店营运管理手册》值得借鉴
+- [Android单元测试: 首先，从是什么开始](https://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html) 作者的这一系列Android单元测试文章写的很好
+- [Android视频技术探索之旅：美团外卖商家端的实践](https://mp.weixin.qq.com/s/2Dn0TxlnKqcDO9-twqpVJg) 
+
+
 ### 第 10 期 20190908
 
 > 最让人有成就感的工作有一些共同的特质，它要求我们发挥最好的水平，但要能为我们自己所掌控而不是取决于他人。要求高但毫无自主权的工作将榨干我们；有自主权但没有什么挑战的工作又让我们失望；而那些既无要求也不为我们控制的工作是最糟糕的。如果你的工作既不能提供挑战又没有自主权，而且你又没有办法让事情变得更好，那就考虑换工作吧。
