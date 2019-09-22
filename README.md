@@ -2,6 +2,25 @@
 
 ---
 
+### 第 12 期 20190922
+
+> 我们都是孤独的刺猬，只有频率相同的人才能看见彼此内心深处不为人知的优雅，我相信这世上一定有一个能够感受到自己的人，他未必是恋人，可能是任何人。横亘身份与地位的外在条件，跨越看似不可丈量的距离，在偌大的世界里，我们会因为这份珍贵的懂得而不再孤独。
+
+- [他齐名周星驰，身患抑郁症却逗笑一代人：成年人，总是笑着笑着就哭了](https://mp.weixin.qq.com/s/LdQHs7SJb4LvHe0HONm_SQ) 粤语栋笃笑（单口喜剧）的一代宗师黄子华的前半生，从哲学学士到演艺圈龙套，从票房毒药变成收视补品。那些爆笑的桥段和妙梗，原来是一个抑郁症患者用苦痛和眼泪熬出的药汤。苦中作乐，才是人间大智慧。
+- [8亿人没到过北京，10亿人没坐过飞机，我们都没想过的中国经济纵深现象](https://mp.weixin.qq.com/s/05-lZnTrOJ2jmU4nTRUiCg) 这个研究思路不错，从经济数据中发现一些意想不到的产业机会或者生意机会，比如消费下沉、老年人市场
+- [戴小天才表是学做社会人的第一步](https://mp.weixin.qq.com/s/2kCTVPfkyH96_D3NBh8GuQ) 摸透儿童市场的典范
+- [国产剧爆款工厂](https://mp.weixin.qq.com/s/-zMAOIbb7WTl9iUGTMO-Zg) 里面有很多国产剧的知识
+- [“强奸式”电梯广告](https://mp.weixin.qq.com/s/PHTbMVift0ATdI3AP6S4zw) 被动化媒体，如何在狭小空间内强奸你的眼睛和耳朵
+- [如何解决90%的问题？10位阿里大牛公布方法](https://mp.weixin.qq.com/s/kX6EsY90hnpSHUUrtk_4aw) 《阿里工程师的自我修养》，大厂工程师成长方法论
+- [2019年8月移动互联网全行业排行榜](https://mp.weixin.qq.com/s/CG6PDfxnEwOynkpdJ8maRw) TrustData 整理出来的 8 月份 APP 月活排行榜
+- [经过 1700 个番茄时间，番茄工作法改变了我什么](https://sspai.com/post/37307) 番茄工作法事实上是一种对人自控力的训练方法和在现实中延伸
+- [商业PPT：形象化表达的16种逻辑](https://mp.weixin.qq.com/s/iwp8FX2xHbv9e3UD_6yieQ) 写 ppt 时可以作为参考
+- [短视频用户增长指南：打造爆款账号的 8 个建议](https://blog.growingio.com/growth/452) 又骗我去做短视频，其实还是有些干货的
+- [那些不得不说的日本音乐大师](https://zhuanlan.zhihu.com/p/30856680) 好吧，我只知道 3 个
+- [表达学院，不仅仅是表达](https://www.douban.com/note/725269955/) 《奇葩说》搞的表达学院，教你成为有独立见解的人。不过太贵了，我推荐看《如何打造你的独特观点》这本书
+- [强势文化，弱势文化分别是什么?](https://www.zhihu.com/question/20306887) 电视剧《天道》（《遥远的救世主》）里面关于文化属性的分类，我的理解是要按自然规律做事要自强，拒绝等靠要
+- [2019年中国人工智能基础数据服务行业白皮书](https://mp.weixin.qq.com/s/WN6yTSVf46I5y69zLei91g)
+- [降低软件复杂性的一般原则和方法](https://mp.weixin.qq.com/s/-Gu_XkY2bZq9Lf2ZCJZPtQ) 写的有点抽象，不过这个话题不错
 
 ### 第 11 期 20190915
 
@@ -15,7 +34,7 @@
 - [大厂员工转型记](https://mp.weixin.qq.com/s/UkMPPWqQGTwsawlESPk9-g) 3个互联网大厂的员工离职后的心路历程
 - [字节跳动的工厂化思维](https://mp.weixin.qq.com/s/hFqOF-IbPccsbuBtNePAPg) 里面提到的文档《西贝餐饮管理公司单店营运管理手册》值得借鉴
 - [Android单元测试: 首先，从是什么开始](https://chriszou.com/2016/04/13/android-unit-testing-start-from-what.html) 作者的这一系列Android单元测试文章写的很好
-- [Android视频技术探索之旅：美团外卖商家端的实践](https://mp.weixin.qq.com/s/2Dn0TxlnKqcDO9-twqpVJg) 
+- [Android视频技术探索之旅：美团外卖商家端的实践](https://mp.weixin.qq.com/s/2Dn0TxlnKqcDO9-twqpVJg)
 
 
 ### 第 10 期 20190908
