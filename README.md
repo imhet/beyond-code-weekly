@@ -2,6 +2,26 @@
 
 ---
 
+
+### 第 13 期 20190929
+
+> 失败并不代表你是个失败者，它只表明你尚未成功。失败并不代表你一无所获，它只表明你吸取了一次教训。失败并不代表你低人一等，它只表明你并非完人。失败并不代表成功永不属于你，它只表明你要付出更多的时间。失败并不代表上帝已经抛弃你，它只表明上帝还有更好的主意。
+
+- [招聘启事都要求35岁以下的，那35岁以后油腻中年人该去哪？](https://mp.weixin.qq.com/s/AXmXQye9_puIFVn_okTEPw) 对中年人困境分析得有道理，好好锻炼身体，多尝试，不断学习
+- [为什么有的人年纪轻轻，思想深度却远高于常人？](https://mp.weixin.qq.com/s/sB_apox2UaLDHif3Fv82lA) 毛主席的超前思考意识是如何炼成的
+- [量子不死，逆天不止](https://mp.weixin.qq.com/s/uPmVbZGpBOuGYnym59PtMw) 揭开量子计算机的神秘面纱
+- [镰刀们的朋友圈](https://mp.weixin.qq.com/s/GQQn--twk1dWwq5LA01Q-Q) 几万人被收割，几百人蹭汤喝，几十人挣了大钱，最后几个人进去扛锅
+- [如何排版文字较多的PPT？](https://www.zhihu.com/question/23996122) ppt 工程师必备技能，如何把 ppt 中的文字排得清晰一些
+- [互联网的下半场，产品经理正在离开舞台中心](https://mp.weixin.qq.com/s/aMTpRouHmpGeL98pd9U6Mg) 姑且不论结论，按 4P 模型来阐述移动互联网下半场
+- [38岁浙大学霸Facebook总部跳楼：人到中年，人生半坡](https://mp.weixin.qq.com/s/0nTtwHIWAQ1AJ3Fys00sEA) 让人唏嘘不已
+- [面试官的灵魂 50 问，问到你怀疑人生！](https://mp.weixin.qq.com/s/50qXz-CltQ5haBZK3aebLA) 搜集了一些问题，可以在面试阶段问面试官
+- [可能是国内第一篇全面解读Java现状及趋势的文章](https://mp.weixin.qq.com/s/-Q1qJY9nytCnyLKunb-x4Q) 从事 java 相关开发的可以看看
+- [腾讯大调整一年，任宇昕冷静革命](https://mp.weixin.qq.com/s/XXsaXfwh4cm3Adyek7BJtw) 腾讯架构变革一年，mark 谈 PCG：内容影响人的心智，使命感要很强
+- [抖音快手造富记：有人月入六百万，有人挣扎前行](https://mp.weixin.qq.com/s/0kxMj2uLBv4nW4ziAZ6czw) 新一代的造富
+- [深挖印象笔记，打造可以复利的写作系统](https://mp.weixin.qq.com/s/gb0B5Q6OuMN7LfaEJwNlcw) 用知识卡片助力写作
+- [代码调试的最佳指南](https://mp.weixin.qq.com/s/rtgUb5FsYpRyRXaCTVhhcQ)
+
+
 ### 第 12 期 20190922
 
 > 我们都是孤独的刺猬，只有频率相同的人才能看见彼此内心深处不为人知的优雅，我相信这世上一定有一个能够感受到自己的人，他未必是恋人，可能是任何人。横亘身份与地位的外在条件，跨越看似不可丈量的距离，在偌大的世界里，我们会因为这份珍贵的懂得而不再孤独。
