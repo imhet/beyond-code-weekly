@@ -2,6 +2,18 @@
 
 ---
 
+### 第 14 期 20191006
+
+> 物品要用才有价值，是为断。物品在此时当下，应出现在需要它的地方，是为舍。物品处于恰当的位置，才能展现美感，是为离。断绝不需要的东西，舍弃多余的废物，脱离对物品的执着，是为断舍离。通过不断重复断和舍，最后达到离。
+
+- [极简中外历史对照图：哥伦布发现新大陆，中国当时在干啥？](https://mp.weixin.qq.com/s/a6xQlyopV3aFc_u5__eUig) 这种按时间轴对比的方式挺不错
+- [我为什么写了那么多故事](https://mp.weixin.qq.com/s/uPFPWpdMZVTwd8dyAw6vSg) 懒得重复回答就是写故事的理由
+- [从故作镇定到接受事实的全过程](https://weibo.com/1401527553/I92sGsO86) 让你半夜笑出猪叫
+- [怎么看懂今天阅兵的武器？](https://mp.weixin.qq.com/s/BHEzASfbdvmId1SwvNHU1Q) 好吧，坦克我真没想到细分这么多
+- [一套也许是最有用的思维模型](https://mp.weixin.qq.com/s/Q0649K32rDrFOQLfy0dZhg) 系统思维的应用
+- [告别AV画质：实时把动画变成4k高清，延时仅3毫秒，登上GitHub趋势榜](https://mp.weixin.qq.com/s/N6OZY--xpCarHY4pcOblUQ) 超分辨率技术的应用
+- [朋友圈环游世界总结报告](https://mp.weixin.qq.com/s/HedK-p1RF2pWkRkkQFIr4A) 足不出门环游世界
+
 
 ### 第 13 期 20190929
 
