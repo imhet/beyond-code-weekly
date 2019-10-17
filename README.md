@@ -2,6 +2,21 @@
 
 ---
 
+### 第 15 期 20191013
+
+> 如果你想要清晰地思考，就必须远离人群。但是走得越远，你的处境就会越困难，受到的阻力也会越大。因为你没有迎合社会习俗，而是一步步地与它背道而驰。如果自己就是潮水的一部分，怎么能看见潮流的方向呢？
+
+- [中国富人：在云端与泥土之间](https://mp.weixin.qq.com/s/RKLshtxNMWwGeAJT2ZfHJw) 这些人共同的特点是，在公共事务面前只关心个人命运，在公开资料面前更相信小道消息，在信息时代面前更信赖熟人推荐，在精神消费面前更加迷恋物质。
+- [走向存量残杀的危险世界](https://mp.weixin.qq.com/s/oYAEwk9GLHSXXNTNqgZOGA) 从邵阳黑帮讲到当前的经济形势
+- [2019杭州云栖大会70+份顶级大咖演讲PPT分享](https://mp.weixin.qq.com/s/g9FNXh-6SqgjslZfrKa6xA) 
+- [宝藏男孩张国立](https://mp.weixin.qq.com/s/Qgk67Z71bc49-U3aKk2eug) 张国立不仅是演员，还是政协委员，年轻时随考察团去南极呆了近半年
+- [我做机器人的经验之一：一定要甩掉手机思维](https://mp.weixin.qq.com/s/zkQUda7_3iMZUPelY0BJVg) 傅盛是个挺有思想的大佬，可惜股票跌得有点惨
+- [WeWork上市折戟，背后增长模式的困局在哪？](https://mp.weixin.qq.com/s/W9db5vNRaZnOtU77Nc-Pvg) 增长性不够，没有很强的壁垒，估值虚高
+- [刷抖音，玩快手](https://mp.weixin.qq.com/s/4ykKSumZm87A6cctXILzQQ) 抖音和快手趋同
+- [让理想更理想 让现实更现实——我读《布隆伯格自传》](https://mp.weixin.qq.com/s/aa6ejH8LhrbZvXc4QvxdsQ) 彭博创始人自传
+- [新 AirPods 降不降噪不知道，但它原来还有这个隐藏功能……](https://mp.weixin.qq.com/s/ElWrEn15JRPnlohGOHVNcg) 脑洞真是大
+
+
 ### 第 14 期 20191006
 
 > 物品要用才有价值，是为断。物品在此时当下，应出现在需要它的地方，是为舍。物品处于恰当的位置，才能展现美感，是为离。断绝不需要的东西，舍弃多余的废物，脱离对物品的执着，是为断舍离。通过不断重复断和舍，最后达到离。
