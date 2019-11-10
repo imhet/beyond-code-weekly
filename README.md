@@ -2,6 +2,75 @@
 
 ---
 
+
+### 第 19 期 20191110
+
+> 现代社会的复杂和规模使得一般人难以对它有清楚的把握。现代人一般从事某种单一的工作，整天忙于生计，既没有时间也没有心思去深度关切他们的生活世界。他们很少认真涉入公众事务讨论。他们遇事往往凭印象、凭成见、凭常识来形成意见。正因如此，社会需要传媒和一些精英分子来梳理时政，来抵抗政治力量对公众盲视。
+
+- [给产品技术人才的建议](https://mp.weixin.qq.com/s/T499T61kFMY1CG_LgRQeDA) 张一鸣 2015 年写的关于对产品和技术人才选择公司标准的认知，今天来看依然很有价值。
+- [玉伯：我的前端成长之路](https://mp.weixin.qq.com/s/3ORJ6AArKKCqvseV163Upg) 全情投入，守正出奇，愿等花开。
+- [香港人买房究竟有多难？](https://mp.weixin.qq.com/s/ByBlDaexODbxoTNwOin9xw) 香港的中位数住房总价相比深圳仅高38%，居民收入是深圳的三倍多，首付比例只有深圳最低水平的三分之一，按揭利率只有深圳的五分之二，香港人买房没有我们想象的那么难，甚至比内地部分城市容易不少。
+- [长三角正在变成一个“省”，珠三角正在变成一个“市”](https://mp.weixin.qq.com/s/p_o3UoUOUg6XRT1co_86kA) 京津冀越来越远离经济核心，中国的格局悄然从三足鼎立，变成了双雄争霸：裂变的长三角，聚变的珠三角。
+- [《Python进阶》中文译本](https://eastlakeside.gitbook.io/interpy-zh/) 它是一本开脑洞的书，无论你是Python初学者，还是Python高手，它显现给你的永远是Python里最美好的事物。
+- [假如有人把支付宝存储服务器炸了](https://mp.weixin.qq.com/s/Xt6aTXxZZomJhVU9jLtnBA)
+- [上调腾讯评级至“买入”：长期拐点正在接近；重要的是金融业务！](https://xueqiu.com/8242980329/135450461) 研究报告上说腾讯的估值处于2016年以来的最低水平，考虑到金融科技业务、海外游戏市场和对外投资的实际价值，建议买入。
+
+
+### 第 18 期 20191104
+
+
+> 一个人办一县事，要有一省的眼光；办一省事，要有一国之眼光；办一国事，要有世界的眼光。
+
+- [2020年媒体技术趋势报告：13大领域、89项变革全输出](https://mp.weixin.qq.com/s/pWbpDII794SdOsOqhwjM6Q) 当机器开始复制我们的声音、预测我们的行为时，人类该何去何从？
+- [从偷渡案看2019年中国人生活水平在全球位置](https://mp.weixin.qq.com/s/2devyTiHQ-gZlM8ijCCxXg) 宁南山对一些流行很久的数据比如“0亿中国人没有坐过飞机”的分析，很有启发
+- [关于死亡，这是一篇颠覆你认知的文章](https://mp.weixin.qq.com/s/VSLSoBreIc7gShombaYlWA) 不尊重死亡的人，不懂得敬畏生命。
+- [携程养狼捕虎](https://www.huxiu.com/article/321751.html) 事业部拆分为小BU，在携程的大船上孵化培育，自负盈亏。
+- [QuestMobile 2019中国移动互联网秋季大报告：BAT用户均超10亿，用户、时长总盘子双停滞，短视频成最大赢家……](https://mp.weixin.qq.com/s/7C3Vx_wCjlRTRVX9F3NIhg)
+- [诸神的黄昏—美国视频行业大变局](https://mp.weixin.qq.com/s/GhuKA-NEUKGSJwUn-wFMJQ)
+- [“35岁现象”的风险，源自心理上脆弱的承受能力](https://mp.weixin.qq.com/s/xo6N-y59dnEYnvbpUORqEw) 学会接受这个世界的不确定性，并主动拥抱变化，不断地强化我们在不确定性中的应变能力，让我们在“波动性”中受益。
+- [一个上海底层市民家庭半个世纪的奋斗](https://mp.weixin.qq.com/s/Pom0SzILDVFojGQlkVI-Tg) 《含泪活着》纪录片主人公丁尚彪的励志故事
+- [那个捐赠近百亿办教育的人](https://mp.weixin.qq.com/s/_KrbkYkUBrA1fPwjY--qcQ) 腾讯创始人之一陈一丹办了个全球性的教育奖。“所有社会问题的解决，最终都可以回归到教育。教育进步了，社会也就发展了。”
+- [爱奇艺的悲壮长征](https://mp.weixin.qq.com/s/0lqdDSew-wDy9jHFBjVCyQ) 视频未来还是有盈利空间的，只要你能耐得住
+- [核桃编程：证明一条赛道的含金量](https://mp.weixin.qq.com/s/TMMf8T2O8XHt-16K_jg7lg) 这句广告词很赞：您来我们培养您孩子，您不来我们培养您孩子的竞争对手。
+
+
+### 第 17 期 20191027
+
+
+> 在祝福裹着告诫呼啸而来的毕业季，请原谅我不敢祝愿每一位毕业生都成功、都幸福；因为历史不幸地记载着：有人的成功代价是丧失良知；有人的幸福代价是损害他人。
+
+- [如何超过大多数人](https://coolshell.cn/articles/19464.html) 很发人深思，以后每周要少看些乱七八糟的文章
+- [故事快讲不下去的互联网新秀们](https://mp.weixin.qq.com/s/YRLADrTm61AEgO_RXGsH7A) 一群伪科技公司，一个个都想着赚快钱
+- [三轮车夫---当当事件有感](https://mp.weixin.qq.com/s/lg6FrPZQVNaXJnopjCtDDg) 每个人都突然之间失去记忆，忘记了这一路走来的歪歪扭扭、吵吵闹闹、勉勉强强，而是自己浑身上下放射着金光，在起点和终点之间笔直画了一根线，一个人就把车开到了终点，一切荣光和成就都应该归于自己。
+- [资本市场为什么不待见腾讯了？](https://mp.weixin.qq.com/s/SfSPG-kzUkBIE4bCu4F7tQ) 腾讯的投资布局锋芒毕露，但这些投资到底能给腾讯未来增加多少想象力，其实是一个很大的未知数
+- [如何画出一张合格的技术架构图？](https://mp.weixin.qq.com/s/1hPZacqJuUeElyHiMxa9rw) 画出一个好的架构图之前， 首先应该要明确其受众，再想清楚要给他们传递什么信息。
+- [贾扬清：把生命浪费在有意思的事情上](https://mp.weixin.qq.com/s/jjoL_pZuQjgmfn_UOnyWfA) Caffe 和 TensorFlow 作者贾扬清关于工作经历和 AI 未来的一些分享
+- [10年前鼓吹”人人都是产品经理“的那个人现在在做什么？](https://mp.weixin.qq.com/s/XCFsV_HIAKeDtDbjeyLf0A) 只要你能够发现问题并描述清楚，转化为一个需求，进而转化为一个任务，争取到支持，发动起一批人，将这个任务完成，并持续不断以主人翁的心态去跟踪、维护这个产物，那么，你就是产品经理。
+- [去了印度之后我的脾气好了很多](https://mp.weixin.qq.com/s/1GrFhsiRWu8HunhDPuz2VQ) 就算我干了这碗恒河水，来世还是不想做印度人。
+- [序《互联网世界的裂缝》](https://mp.weixin.qq.com/s/KC6UUnb-6DDcW1D1cNeP6Q) 菜头叔为毕胜的新书《流量是蓝海》这本书写的序
+- [腾讯大牛告诉你，如何通过知识管理让工作更轻松](https://mp.weixin.qq.com/s/STMnbb0sdTVnomGxlz0Sow) 持续聚焦输入，有效整合输出；发散性思考，发现更多可能性；交流产生思想，碰撞产生火花。
+- [江一燕体」为什么会突然火了？有怎样的特征？](https://www.zhihu.com/question/352143972/answer/868620677) 这群人都是talent（人才），影视剧里的character（人物）中英文混双也是real(真的)搞笑...把我乐得
+
+
+### 第 16 期 20191020
+
+
+> 放肆地嘲笑病人和不幸的人——不管她是什么人，是一件卑鄙而下流的事……我们应该牢记这一点，使得权力不至于毒害我们，把我们变成比那些我们终生反对并与之斗争的人更卑鄙的魔鬼。
+
+- [王兴内部讲话：为什么中国To B企业都活得这么惨？](https://mp.weixin.qq.com/s/Qd-sjzjVZjZqGXPmUSizyg) 很有启发
+- [阿里巴巴高级技术专家章剑锋：大数据发展的8个要点](https://mp.weixin.qq.com/s/XhsSMZw8TJaVzetSC3YGvg) 从数据流和技术栈的角度看待大数据发展，期待大数据上层应用的全面开花
+- [Ruby之父：写Ruby时工作特别闲，总加班的人很难做出创造](https://mp.weixin.qq.com/s/a2cpVbgeq6mzBu1_AjRa0A) 提高自己的工作效率，不加班，拥有自由的时间。利用自己的时间创造新的东西，做一些创新性的工作，这才是正道，希望这样的人越来越多，也希望鼓励这种文化的公司越来越多。
+- [二手房东忽悠悠，民宿韭菜绿油油](https://mp.weixin.qq.com/s/rrOGdmfP5eHjUpbrQMCAiQ) 开民宿只有两天开心，开业的第一天和成功转手的那一天，其他时候都想上吊。
+- [教育培训机构的老师发展前景如何？](https://www.zhihu.com/question/20817018/answer/593425005) 如何利用互联网把自己打造成一位有影响力的优秀培训讲师
+- [Android兼容Java 8语法特性的原理分析](https://mp.weixin.qq.com/s/MxMcpJlqSEZRO0CssQglOg)
+- [腾讯还能继续高增长吗？](https://mp.weixin.qq.com/s/ozQS_D5yxMmNQHUGIQRO4g) 未来五年，腾讯有望为投资者继续贡献大幅超越市场一般水平的投资收益。
+- [我潜入了价值1w4的量子波动速读班，现在决定向大家倾囊相授！](https://mp.weixin.qq.com/s/4t3_MSO8hP1avImbuoPFmw) 望子成龙的心态 + 科学信息差 = 骗局
+- [VS Code 为什么能这么牛？](https://mp.weixin.qq.com/s/6qwzIqxkZF31rbTbMuScbg) VS Code 的定位：编辑器，代码理解，调试，其它走插件。设计思想值得学习
+- [因为我批评了抖音和今日头条，他们要砸烂我的饭碗](https://mp.weixin.qq.com/s/HVzVhEgUZZFmu-mbN8HMcg) 若批评不自由，则赞美无意义！
+- [这些年你都坚持了什么爱好？](https://mp.weixin.qq.com/s/bK7Gl8Tcf632m6Wqch-k_w) 掌握了时间管理的秘密：把眼光放长远，列下对自己生命最重要的事情，然后每天固定的时间去做，直到养成好习惯。
+- [孙正义造不出第二个阿里巴巴](https://mp.weixin.qq.com/s/rBlmioR7i7IVOd5W8tq48A) 看不懂的共享办公
+- [腾讯系的征途](https://mp.weixin.qq.com/s/_2aOXD-I54ktpf_-50-YKg) 这个世界并不在乎你的自尊，只在乎你做出来的成绩，然后再去强调你的感受。
+
 ### 第 15 期 20191013
 
 > 如果你想要清晰地思考，就必须远离人群。但是走得越远，你的处境就会越困难，受到的阻力也会越大。因为你没有迎合社会习俗，而是一步步地与它背道而驰。如果自己就是潮水的一部分，怎么能看见潮流的方向呢？
