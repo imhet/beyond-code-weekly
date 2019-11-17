@@ -2,6 +2,18 @@
 
 ---
 
+### 第 20 期 20191117
+
+> 你如果总是吃进去超过你需要的食物，那这个食物就不是你的胃需要，而是你的心需要。而我们的心是不需要食物的，它需要爱，需要包容，需要接纳，你多吃进去的每一口食物可能都是在填补无法被满足的爱的需要。原来，我胖居然是因为缺爱。
+
+- [为什么摄像头能认出你的脸？](https://mp.weixin.qq.com/s/mSN049bdnWxzr03Zd5EKkg) 视频编码技术科普文
+- [快手高性能移动端多媒体引擎架构](https://mp.weixin.qq.com/s/hREQv6_Sia69X0cyuqoCxw) 并行化，硬解跑 Benchmark，seek优化，转场优化，卡顿优化
+- [阿里技术专家：详解技术中台/移动中台/研发中台](https://mp.weixin.qq.com/s/H37I2bsxyAqhayhhFAbu2g) 
+- [无直播，不电商](https://mp.weixin.qq.com/s/pCd1hfjV8o8bUP2dLPHsNQ) 电商平台在构建自己的内容能力，商家拥有了自己的直播体系和从公域拉过来的流量池，机构和达人摸索自己的商品店铺...他们一定会发生某种冲突
+- [想砍死北野武的女人们](https://mp.weixin.qq.com/s/TY_oIRVOmu_wq_L3dD5vpw) 《菊次郎的夏天》的导演北野武的成名之路
+- [网优到底是干什么的？](https://mp.weixin.qq.com/s/QWhZvV_7nYw6pExsf2PU1A) 介绍移动通信网优工程师的工作
+- [抱歉，我不跟风夸李诞](https://mp.weixin.qq.com/s/8RZXk1vytftqvBQawrBIgA) 比起躺平认输，至死还在战斗的姿态才是真的帅
+- [我怎么就被一张照片出卖了？](https://mp.weixin.qq.com/s/JREttCC2KrMExfTGO3X8iQ) 照片 exif 、家庭或公司的内外景、瞳孔倒影、影子定位、拍照露指纹这些结合社会工程系会让你的隐私暴露无遗
 
 ### 第 19 期 20191110
 
