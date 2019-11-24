@@ -2,13 +2,27 @@
 
 ---
 
+### 第 121 期 20191124
+
+> 最快速形成人力资本的方法，就是去聪明人多的地方，从比你更聪明的人身上学习。跟高手在一起工作，你会成长得非常快。大公司虽然高手很多，但是你接触不到也没用。 在一个快速发展的行业里面，加入一群聪明人组成的小团队，可能是事业成功的最佳方式。
+
+
+- [陆奇的benchmark：技术趋势与商业变革](https://mp.weixin.qq.com/s/uP_8UBDP7_2d6UtnNpUm3A) 对人工智能时代的预测以及企业的机会和方法，信息量很大
+- [《黑天鹅》《反脆弱》作者塔勒布：海洛因、碳水化合物、月薪是三种最有害的成瘾物](https://mp.weixin.qq.com/s/5SjIFegEkpAdyaOsYrJHUQ) 从反脆弱角度说健身
+- [20年前他们从微软离职，用“小黑盒”登上网络存储界的铁王座](https://mp.weixin.qq.com/s/iI-NhRIhxuBomJB3PQShvQ) "NAS 界的苹果" 群晖的成长史，从软件到软硬一体
+- [中国家庭卡拉OK简史：为什么MV里总有泳装美女？](https://www.toutiao.com/a6761725288851177988) 泳装美女，金碟豹...那些年无处安放的青春
+- [双11模块 79.34% 的代码是怎样智能生成的？](https://mp.weixin.qq.com/s/EktHbvCnghkywZE8rOvMhw) 随着智能生成的完善，未来的前端工程师可能会面临职业危机
+- [漫画：什么是中台](https://mp.weixin.qq.com/s/_BQq2haq0oE_u8W5Xr7GsQ) 通俗易懂。业务中台、技术中台、数据中台、算法中台...都是之前的横向部门换了个名字
+- [虚构的历史——卢克文的“世界真相”](https://mp.weixin.qq.com/s/0pSqTn8LRJgpkz-LcQGhtg) 打假卢克文
+
+
 ### 第 20 期 20191117
 
 > 你如果总是吃进去超过你需要的食物，那这个食物就不是你的胃需要，而是你的心需要。而我们的心是不需要食物的，它需要爱，需要包容，需要接纳，你多吃进去的每一口食物可能都是在填补无法被满足的爱的需要。原来，我胖居然是因为缺爱。
 
 - [为什么摄像头能认出你的脸？](https://mp.weixin.qq.com/s/mSN049bdnWxzr03Zd5EKkg) 视频编码技术科普文
 - [快手高性能移动端多媒体引擎架构](https://mp.weixin.qq.com/s/hREQv6_Sia69X0cyuqoCxw) 并行化，硬解跑 Benchmark，seek优化，转场优化，卡顿优化
-- [阿里技术专家：详解技术中台/移动中台/研发中台](https://mp.weixin.qq.com/s/H37I2bsxyAqhayhhFAbu2g) 
+- [阿里技术专家：详解技术中台/移动中台/研发中台](https://mp.weixin.qq.com/s/H37I2bsxyAqhayhhFAbu2g)
 - [无直播，不电商](https://mp.weixin.qq.com/s/pCd1hfjV8o8bUP2dLPHsNQ) 电商平台在构建自己的内容能力，商家拥有了自己的直播体系和从公域拉过来的流量池，机构和达人摸索自己的商品店铺...他们一定会发生某种冲突
 - [想砍死北野武的女人们](https://mp.weixin.qq.com/s/TY_oIRVOmu_wq_L3dD5vpw) 《菊次郎的夏天》的导演北野武的成名之路
 - [网优到底是干什么的？](https://mp.weixin.qq.com/s/QWhZvV_7nYw6pExsf2PU1A) 介绍移动通信网优工程师的工作
@@ -89,7 +103,7 @@
 
 - [中国富人：在云端与泥土之间](https://mp.weixin.qq.com/s/RKLshtxNMWwGeAJT2ZfHJw) 这些人共同的特点是，在公共事务面前只关心个人命运，在公开资料面前更相信小道消息，在信息时代面前更信赖熟人推荐，在精神消费面前更加迷恋物质。
 - [走向存量残杀的危险世界](https://mp.weixin.qq.com/s/oYAEwk9GLHSXXNTNqgZOGA) 从邵阳黑帮讲到当前的经济形势
-- [2019杭州云栖大会70+份顶级大咖演讲PPT分享](https://mp.weixin.qq.com/s/g9FNXh-6SqgjslZfrKa6xA) 
+- [2019杭州云栖大会70+份顶级大咖演讲PPT分享](https://mp.weixin.qq.com/s/g9FNXh-6SqgjslZfrKa6xA)
 - [宝藏男孩张国立](https://mp.weixin.qq.com/s/Qgk67Z71bc49-U3aKk2eug) 张国立不仅是演员，还是政协委员，年轻时随考察团去南极呆了近半年
 - [我做机器人的经验之一：一定要甩掉手机思维](https://mp.weixin.qq.com/s/zkQUda7_3iMZUPelY0BJVg) 傅盛是个挺有思想的大佬，可惜股票跌得有点惨
 - [WeWork上市折戟，背后增长模式的困局在哪？](https://mp.weixin.qq.com/s/W9db5vNRaZnOtU77Nc-Pvg) 增长性不够，没有很强的壁垒，估值虚高
