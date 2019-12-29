@@ -2,6 +2,88 @@
 
 ---
 
+
+
+### 第 26 期 20191229
+
+> 海因莱茵谈什么是通才：一个人应该能够换尿布，策划战争，杀猪，开船，设计房子，写十四行诗，结算账户，砌墙，接脱臼的骨头，安慰濒死的人，服从命令，发布命令，携手合作，独立行动，解数学方程，分析新问题，铲粪，电脑编程，做出可口的饭，善打架，勇敢地死去。只有昆虫才专业化。
+
+- [阿里巴巴公司根据截图查到泄露信息的具体员工的技术是什么？](https://www.zhihu.com/question/50735753/answer/122593277) 频域数字盲水印
+- [程序员之神](https://mp.weixin.qq.com/s/xV6yc44FMUYDKQ_TPM47BQ) 编译器技术的半衰期很长，做技术要想长久，得往底层走
+- [认为头条更像百度是一种错觉](https://mp.weixin.qq.com/s/JlR0PQ8B0v0mhsJIOV46MQ) 对字节跳动有了新的认识
+- [2019，中国互联网让人失望的一年](https://mp.weixin.qq.com/s/0Q8TpF-aUmUjq38uOalQpg) 2019年或许是过去十年中最坏的一年，但可能是未来十年最好的一年
+- [为什么现在不适合投资买房？](https://mp.weixin.qq.com/s/oBK5aEOsX4JnJxzadPen1w)
+- [2019阿里系电子书合集](https://developer.aliyun.com/article/739170)
+
+
+### 第 25 期 20191222
+
+> 真正的发现之旅，不在于寻找新的风景，而在于有新的视角。
+
+- [一个老程序员的30年生涯回顾](https://mp.weixin.qq.com/s/j8lW24TeBp4TQxgbjoAh8g) 提升独立工作的能力，远离浪费生命的事情 
+- [2020年中国的八个商业趋势](https://mp.weixin.qq.com/s/DDr2L4-wHjEW9aIlp-t1ew) 但凡看不懂都是因为傲慢与偏见，并不是因为时代老去了，因为时代从未老去，只是你不再年轻。 
+- [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) 川大学生的深度学习笔记，很厉害
+- [B 站正在成为 Chinese YouTube](https://mp.weixin.qq.com/s/8AUZH2Xmzjll1e66vdv_pA) 优酷土豆被阿里收购后，中国 youtube 的大旗交给 B 站了
+- [Flutter+Serverless端到端研发架构实践](https://mp.weixin.qq.com/s/JHqHmb00JEMPSAQbau2FIw) lamba 工程师，未来可期 
+- [面试600人后我发现这9个面试题最好用](https://mp.weixin.qq.com/s/i_RYc-vEfmw-eBuiTL1bNA)
+- [你看盗版你还有理了？](https://mp.weixin.qq.com/s/rwXgD4b6cLTGLduEuB0AYg) 如果你玩的是盗版也没关系，毕竟盗版是最好的宣传，但玩的时候请别忘记带着羞耻心。
+- [为何Keep会出“深喉”爆料者？](https://mp.weixin.qq.com/s/EY2p_V531mdIZ7LqJeCS2Q) 把一个应该小而美产品吹那么大，迟早会要破的
+- [开源的人脸生成器](http://seeprettyface.com) 生成模型描绘地再好，它都只是虚假的，我们要学会不让自己沉陷于这样的虚幻当中，趁早学会适应这样的环境
+- [AOSP 代码搜索工具](https://cs.android.com) 在线看Android源码多了个选择
+- [第十四届 D2 前端技术论坛 20+ 份精彩演讲 PPT 分享](https://mp.weixin.qq.com/s/PmxRgzp-Di7dVaqUzeVafw)
+- [失业和第二条曲线](https://mp.weixin.qq.com/s/lPNamt3lDKcOSO-tktmR1Q) 焦虑本身不解决问题，焦虑会迫使你解决问题。
+- [程序员必练六大项目：从数据结构到操作系统，计算机教授为你画重点](https://mp.weixin.qq.com/s/YMoHscgOhacdR6_P2vvMTQ) 不知道要做什么个人项目时试试这些吧
+
+
+### 第 24 期 20191215
+
+> 人的提高，把不懂的书读懂就是一个很重要的途径，有时甚至是唯一的途径。
+
+- [我加过四五十个PUA群，发现“爱情没有捷径”](https://mp.weixin.qq.com/s/zg4_8RM7A0fAtIbmnUP3Wg) 就像玩游戏的时候，你用了外挂，体验过外挂的快感，你再也无法享受这款游戏的乐趣。
+- [从 ToC 到 ToB - 身处互联网变革中的程序员](https://mp.weixin.qq.com/s/hf1CqkMnSrIhGixqfPOi3g) ToC 产品背锅的是产品经理；而 ToB 就要靠程序员了。
+- [算法工程师也会遇到35岁这道坎么？](https://www.zhihu.com/question/345939613/answer/832991977) 从可迁移的技能、有意义的经验和持久的人际关系提升自己。
+- [毕业后过得很拮据，父母愿意让我啃老，该「啃」吗？](https://mp.weixin.qq.com/s/U1yZSeB9PC-zaZhZjAONrw) 不要美化苦难和贫穷，它们除了会让你自卑，让你固执，让你患上习得性无助之外，真的一无是处。
+- [102户中国家庭晒出全部家当：原来这才是真正的中国](https://mp.weixin.qq.com/s/D75qJykWKX1IA17r7WLbEg)
+- [电视购物20年，“第二春”还会来吗？](https://mp.weixin.qq.com/s/IwyqhIFe4GOIR2loesbtqg)
+- [IPV4 地址耗尽会对互联网产生什么影响？](https://mp.weixin.qq.com/s/cqz8h3xCUDyYldJHv9Mazg)
+- [搜狗王小川：智能音箱未来几年将不再性感，更看好智能眼镜](https://www.toutiao.com/i6768369584991896072)
+
+
+### 第 23 期 20191208
+
+> 当你的才华还撑不起你的野心时，那你就应该静下心来学习； 当你的能力还驾驭不了你的目标时那就应该沉下心来历练；梦想不是浮躁而是沉淀和积累；只有拼出来的美丽没有等出来的辉煌；机会永远是留给最渴望的那个人；要学会与内心深处的你对话，问问自己想要怎样的人生。
+
+- [从《华为的冬天》到AI的冬天](https://mp.weixin.qq.com/s/hGUb4kHX906XpS1o8h8Tfg) 时刻准备着接受危机，知难不难，惶者生存。
+- [最有前途的专业，都具备相同的特征](https://mp.weixin.qq.com/s/s4UsFHDgElSgv6EmdCrckA) 35岁危机的根本原因就是很多人尝到高薪的甜头以后不愿意去持续学习了
+- [王坚：关于AI我们都想错了](https://mp.weixin.qq.com/s/8TxEq4W3LEQRvr1Yh7kUTQ)
+- [海外粉丝739万，超过BBC的李子柒，才是真正的文化输出啊](https://mp.weixin.qq.com/s/Y7zywae0wgvHqr7YWpZ6zg) 她在重新向全世界介绍，被我们忘记的那些中国文化、艺术和智慧。
+- [深圳中考有多难？要成绩好，要体育好，还要你的妈妈有空闲！](https://mp.weixin.qq.com/s/nkvaJSeBu3l3UU6-C6ttLg) “谢谢深圳中考综评，给了我免费学习、不断提高自己能力的机会。”
+- [裁员、关门、爆雷，少儿编程大撤退](https://mp.weixin.qq.com/s/hfBhvyQXGtN10HPHzaRzZg)
+- [基于通用组件语言规范的声明式组件库，腾讯WeComponents正式开源](https://mp.weixin.qq.com/s/hnuVC7pFFdm1-NCQzRELEQ)
+- [爱因斯坦：肯定有什么东西在它的后面深深地隐藏着](https://zhuanlan.zhihu.com/p/87567338)
+- [复制粘贴一时爽：传播最广的一段Java代码曝出Bug](https://mp.weixin.qq.com/s/uPODD9TKt75WHHi2UFZOOw) 一定要对所有极端情况做出测试，特别是测试那些复制自 Stack Overflow 的代码；浮点运算很复杂，也很困难，在复制代码时，请确保了解代码背后的逻辑和使用规范。
+- [Android v1、v2、v3签名详解](https://mp.weixin.qq.com/s/Hb7Q3MVDXBn9EK6eyqELjQ)
+- [不要自称程序员](https://mp.weixin.qq.com/s/Eek6ZDLKVhDwpSG2MvbJeA) 好的程序员专注于为公司带来价值
+- [2019-2020内容产业趋势报告：66页PPT解读七大拐点](https://mp.weixin.qq.com/s/BmgTqQ7o3C8nFudKPv9NCg)
+
+### 第 22 期 20191201
+
+> 你知道何谓沮丧——就是你用一辈子工夫，在公司或任何领域里往上攀爬，却在抵达最高处的同时，发现自我爬错了墙头。
+
+- [和死神赛跑：趁父亲还在世，我想用人工智能留住他](https://mp.weixin.qq.com/s/yVcCRpIrCN-O8eekJYNzmw)
+- [曾令所有男人艳羡，如今避之不及！这个恐怖行业，何时才能消失？](https://mp.weixin.qq.com/s/dpr1CMat2mMgTAa3-oXV1Q) 人肉审核不是那么好做的
+- [越是冬天，越要埋头潜行：9 个建议，助你过冬](https://mp.weixin.qq.com/s/nyVljozGOj7FCMBlLr2sOA) 在冬天来临的时候，一路潜行，走过去，就是春天。
+- [曾为网易创造千万营收，辞退还被启动竞业，至今在家待业，生活陷入困境](https://mp.weixin.qq.com/s/JjW23mU-JmfAotcXG2-ojw) 网易给我上了人生中最重要一课。
+- [不要再尝试函数式编程了！](https://mp.weixin.qq.com/s/fWqLhNhT4jgeEJHKbJbnlA) 正话反说，值得学习
+- [台上笑嘻嘻，台下录音笔——互联网裁员生存指南](https://www.toutiao.com/a6764197726524539396)
+- [水滴筹又出事！被曝“扫楼式”筹款，按单提成、员工月入过万、末位淘汰！](https://mp.weixin.qq.com/s/8G52ZlW343hNEC7bS9zOVw) 
+- [狂杀小县城，开店7000家！令所有网红店都恐惧的敌人火了](https://mp.weixin.qq.com/s/Ll6DSjgfdWFlsstSVbi-uA) 薄利多销，不难喝才是王道。
+- [剥完橘子不洗手，就千万别摸它！](https://mp.weixin.qq.com/s/3m27LFCAWfeLQlQkHygvLg) 芳香烃类化合物对橡胶（气球）的溶解很强，这两种物质遇到一块会发生剧烈的化学反应导致气球爆炸
+- [跑马的盆友注意啦！不懂这些术语你就尴尬了](https://www.codoon.com/iec/article/njXYSiFkjcQ=)
+- [为什么中国邮政还没倒闭？被网友的回复暖哭了](https://mp.weixin.qq.com/s/dRrfIvf4XOBi71waFknGdA)
+- [互联网人员架构优化指南](https://news.futunn.com/stock/9953133)
+- [命令行的艺术](https://mp.weixin.qq.com/s/QfEthe9jeCkXm2DHMxNMyQ)
+
 ### 第 21 期 20191124
 
 > 最快速形成人力资本的方法，就是去聪明人多的地方，从比你更聪明的人身上学习。跟高手在一起工作，你会成长得非常快。大公司虽然高手很多，但是你接触不到也没用。 在一个快速发展的行业里面，加入一群聪明人组成的小团队，可能是事业成功的最佳方式。
