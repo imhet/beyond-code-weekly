@@ -3,6 +3,90 @@
 ---
 
 
+### 第 31 期 20200202
+
+> 生命的真正意义在于能够自由地享受阳光，森林，山峦，草地，河流，在于平平常常的满足。但可惜的是，人们平时往往忽略它，而在战乱时又会领会得格外深刻。
+
+- [王慧文的商业精华](https://mp.weixin.qq.com/s/S2dRga_vcqTgUVkT7gAVkw) 美团联合创始人王慧文讲话精选。要了解一家公司，跟踪其创始人的言论是一个很不错的切入点
+- ["冠状病毒"是什么？武汉新型肺炎致病原理](https://mp.weixin.qq.com/s/T6gQCNxswp-UxWsFmZdINQ) 李永乐老师通俗易懂的讲解新型肺炎致病原理
+- [李永乐老师科普视频文章大汇总](https://mp.weixin.qq.com/s/mGAVJYjXuMMYdw5-iJvojw)  李永乐老师成为永乐大帝的背后是因为科普范围不设限，啥都能讲，关键还好懂
+- [板蓝根是怎样成为国民神药的](https://mp.weixin.qq.com/s/2YROdmNFpcXkoSi4oEe42Q) 板蓝根现象的背后是国民对疫情的恐慌，恐慌的背后是缺少独立思考，缺少独立思考部分是因为舆论被管控...
+- [谁是 2019 年度最佳软件？](https://mp.weixin.qq.com/s/JKzRGmXBtToVzpPb9ieCJA) 历史知识可视化、百度地图语音导航和 Kodi 还不错
+- [程序员要为降薪做好准备！](https://zhuanlan.zhihu.com/p/101366940) 把编程当做爱好，多探索技术，多做一些业余项目
+- [我觉得集体放假不该再延长了](https://mp.weixin.qq.com/s/SI6h6hsFMNP-eMGrsYu1XA) 动态防御这个概念有点意思
+- [最容易被忽视的写作技巧](https://mp.weixin.qq.com/s/GBq76SbLuEF2E4iENC7PPA) 真诚的自我表达写出心里话其实并不容易，多看看《写出我心》这本书
+- [软件工程师的衰落与程序技术员的兴起](https://mp.weixin.qq.com/s/PDevV-6mRX6D637hGzYgaw) 找准你在软件开发行业的定位
+- [有多少流落在外的湖北人正在被歧视和驱赶？](https://mp.weixin.qq.com/s/Y5wDaWXltsySR2JbQKcdSQ) 自保式歧视
+
+
+### 第 30 期 20200126
+
+> 当你的才华还撑不起你的野心时，那你就应该静下心来学习；当你的能力还驾驭不了你的目标时那就应该沉下心来历练；梦想不是浮躁而是沉淀和积累；只有拼出来的美丽没有等出来的辉煌；机会永远是留给最渴望的那个人；要学会与内心深处的你对话，问问自己想要怎样的人生。
+
+- [瘟疫战争](https://www.huxiu.com/article/336896.html) 传染病简史
+- [贾平凹：关于写作的五条建议](https://mp.weixin.qq.com/s/gvVsx57cM5Vum6suNJYMuQ) 关注现实，好好说自己的话，控制好节奏，作品要精神贯注，不要太顺溜
+- [武汉的真实情况，现在连武汉人都说不清](https://mp.weixin.qq.com/s/35wsbmUfzAq1swwB7pDFTg) 真实情况会比官方数据要严重且滞后
+- [你们难道还没发现？满街都是僵尸宝宝！](https://zhuanlan.zhihu.com/p/60339019) 遛娃时多与宝宝沟通交流
+- [分离鉴定出SARS冠状病毒专家：这次我害怕了](https://mp.weixin.qq.com/s/FYVIFhXC_SuYj6__XwZuRg) 管轶对疫情预测的还挺准
+- [这些野生动物的病毒，怎么就到了人类社会？](https://www.huxiu.com/article/255125.html) 病毒学家追踪SARS源头的故事
+- [2019年中国移动互联网行业发展分析报告](https://mp.weixin.qq.com/s/IBeZ9zhT2auEDMWlFGxWzQ) 两超三强，抖快领跑视频，头条极速版，迷你世界，咸鱼，作业帮...
+- [带你走出皮肤护理的误区](https://www.douban.com/review/12187257) 《皮肤的秘密》书中有用知识摘录
+- [软件开发没看上去那么简单，从utf8mb4_0900_ai_ci说起](https://mp.weixin.qq.com/s/H7Td1DSWAORDADlkJnj2QQ)
+
+### 第 29 期 20200119
+
+> 如果你不去创造自己想要的生活，你将被迫花很多时间，去应付自己不想要的生活。
+
+- [视频战争2020](https://mp.weixin.qq.com/s/ZJmXv_qjf1pEysBqtwNoHA) 抖音快手的时代来了
+- [美团点评技术年货：900+页电子书，覆盖前端、后台、大数据、算法……](https://mp.weixin.qq.com/s/AzUL_aFQ1vKp8n2jDcEmAw) 佩服美团的技术同学
+- [口罩君：嗯？我以前长这样](https://mp.weixin.qq.com/s/wwtY3_RwK3w7_7DphDYL8g) 口罩的历史
+- [中台，我信了你的邪](https://mp.weixin.qq.com/s/9j3BnR3UqA-lnJDoM5Hrvg) 为了中台而中台是什么样的体验
+- [张一鸣：CEO如何应对公司变大之后的管理挑战?](https://mp.weixin.qq.com/s/wmfeISB80BWTSFOZpVIDeA) 决策权下发，类似华为的让听得见炮声的人做决策
+- [写给Android App开发人员看的Android底层知识](https://www.cnblogs.com/Jax/p/6864103.html) 包哥这个插件相关基础知识系列写的挺好懂
+- [跨平台技术演进及Flutter未来](https://mp.weixin.qq.com/s/UZQU-PWM5JEb3dYtZKT6Cw) Gityuan 讲解字节跳动在 Flutter 方面做的尝试
+- [四种财富增长曲线，你的人生是哪一种？](https://mp.weixin.qq.com/s/e6dvouIebQrKumqR1A3BYA) 耐得住寂寞，专注大机会，说起来容易做起来难
+- [爱奇艺HomeAI智能语音交互系统的技术实践](https://mp.weixin.qq.com/s/99mc8Ivr18zyGbMHOXHY_w) 语音进行视频搜索和常规的视频搜索的区别带来的技术实践
+- [价值300万的「清单原则」，专治手忙脚乱效率低](https://mp.weixin.qq.com/s/-vLgjhhdBQdl2C1Doa4fVw) 每天做最重要的一件事
+- [字节跳动如何做游戏？](https://mp.weixin.qq.com/s/HsCGsGUjCcpOXp_7SrTLGA)
+- [如何写一个Android inline hook框架](https://mp.weixin.qq.com/s/OWEXaIue16X2ObIb_tJqjA) inline hook 相对其它几种 hook 难一些，这篇文章值得学习下
+- [银行裁员的“鬼故事”](https://mp.weixin.qq.com/s/P_sMZ_LmKK_QDPtrzZSZpw) 银行裁员与银行经营业务获利关系不大
+
+### 第 28 期 20200112
+
+> 我掌握了这条河的语言，就像熟悉字母表一样逐渐熟悉了岸边的每一处细节，有了真正的收获。但我也失去了一些东西。我所失去的，此生难以挽回。在这条壮丽的大河上，所有的雅致、美丽、诗意全都不复存在！
+
+- [不在微信也能运行小程序？小程序硬件框架正式上线！](https://mp.weixin.qq.com/s/HZ5ixmfKc_o5oyvXc0JQKw) 拓展了小程序的应用范围，物联网时代大有可为
+- [钱都挣了320亿了，求求你们放过孩子吧！](https://mp.weixin.qq.com/s/s3isuNxPCNg7Vg5GXgk7ow) 珍惜生命，远离中药注射剂
+- [蔡元培：我的读书经验](https://mp.weixin.qq.com/s/MR36kCuwrxMQL1bgLkYVHA) 读书做到能专心能动笔，收获会高很多
+- [重磅发布 | 380 页高德核心技术公开，速度收藏！](https://mp.weixin.qq.com/s/JXdDky7Ih43mZe5BTb3rOQ) 高德技术集合贴
+- [我收到的最佳编程建议](https://mp.weixin.qq.com/s/-0BRMfhc-JsJHfDw3LjKKQ) 多读好书，少写代码，调试前要思考
+- [张小龙微信公开课PRO演讲：信息互联的7个思考](https://mp.weixin.qq.com/s/PzJbttj5UtxLHdEtamkjPA) 用产品说话，才是我们应该做的。
+- [2019今日头条年度数据报告（完整版）](https://mp.weixin.qq.com/s/GmD7dqy3PncueCiv4nb6aQ)
+- [2019年抖音数据报告（完整版）](https://mp.weixin.qq.com/s/mjzr2ssMpmDdVeMeiOTb3g)
+- [怎样取名字？从诗经楚辞、四书周易、诗词歌赋中找灵感，好听有寓意！](http://bbs.tianya.cn/post-funinfo-5390415-1.shtml) 天涯老帖，取名字可参考
+- [基于Flutter+FaaS的业务框架思考与实践](https://mp.weixin.qq.com/s/yvrz8zMD4q_ngk54-PWK8A)
+- [美团王慧文万字内部讲话：20年 to C，20年 to B](http://www.woshipm.com/kol/1791408.html) 2018年底的文章，互联网和科技推动中国服务业供给侧改革
+
+
+### 第 27 期 20200105
+
+> 如果你想造一艘船，那么不要鼓励人们去伐木、去分配工作、去发号施令。你应该做的是，教会人们去渴望大海的宽广无边和高深莫测。
+
+- [关于VR，这篇科普可以说是很全面了](https://mp.weixin.qq.com/s/KgS9Q4QPtW-RMHkydz9TLg) 通俗易懂
+- [1.5万儿科医生大逃亡背后，9000万中国家庭无路可退](https://mp.weixin.qq.com/s/A1yRRp0-wEoCQdFTiWdDmQ) 一边忙着救人，一边想方设法保命，这就是他们最真实的写照。普通人应该多学点医学常识小病自己搞定，大病不苛求医生。
+- [罗振宇的骗局：他永远不会告诉你的秘密](https://mp.weixin.qq.com/s/GhdTmL33Mi7SH_-ZASGyHA) 你是想自己吃饭呢还是想别人嚼烂了喂给你吃？
+- [建立“长尾坐标”才能拯救亏本的视频平台](https://mp.weixin.qq.com/s/3cim7sm-8jmX1N2JZPonVg) 成本高寿命短的新热剧如同鸡肋，要时不时翻炒下经典老剧
+- [2020年，从提升认知开始](https://mp.weixin.qq.com/s/mLL-YkUQ4_2uKbJueEwcpQ) 提升认知多赚钱
+- [阿里智能音箱大换血](https://www.huxiu.com/article/334087.html) 做到设备的互联，做到设备的无缝互联，做到消费者者能够接受的无缝体验，这是智能语音面临的三个问题。
+- [B站晚会为什么被夸疯了？答案飘在84万条弹幕中……](https://mp.weixin.qq.com/s/wHfO_8rF_TG-ERTk8pvPmw) 小破站加油
+- [整容完，那帮傻姑娘又去卖身了](https://mp.weixin.qq.com/s/Y1Sg6eQejVlJgP7utZFubw) 消费主义，整容，卖身，高利贷，拖身边的人下水，一步步的堕落，回头是岸。
+- [与百度有关的日子](https://mp.weixin.qq.com/s/ax3RRIDs-xi9qPp10PtWUg) 百度的往事与未来，望重拾初心，浴火重生
+- [腾讯头条化，头条百度化](https://mp.weixin.qq.com/s/-UpiNheDhIr2dzWko3zJXw) 最应该关注的是用户而不是竞争对手
+- [吴晓波：遇见2019](https://mp.weixin.qq.com/s/g53Oq8zlt4upmNUFwELOeg) 吴晓波年终演讲
+- [2020年，陆奇59岁：我给20、30、40岁年轻人的建议](https://mp.weixin.qq.com/s/tcwQfgJAkMFJx9ARKCFP_g) 20岁快速学快速失败，30岁搭建系统，40岁找个好舞台
+- [一次看完全年文章，快收藏！](https://mp.weixin.qq.com/s/RV_zr6LNel1-ReT7jrSh7A) 阿里机器智能全年文章汇总
+- [腾讯高性能跨端框架 Hippy 正式开源](https://mp.weixin.qq.com/s/ED6T4dAcuFQmry6o6KaYBA) QQ浏览器开发的Hippy跨端框架
+
 
 ### 第 26 期 20191229
 
@@ -20,11 +104,11 @@
 
 > 真正的发现之旅，不在于寻找新的风景，而在于有新的视角。
 
-- [一个老程序员的30年生涯回顾](https://mp.weixin.qq.com/s/j8lW24TeBp4TQxgbjoAh8g) 提升独立工作的能力，远离浪费生命的事情 
-- [2020年中国的八个商业趋势](https://mp.weixin.qq.com/s/DDr2L4-wHjEW9aIlp-t1ew) 但凡看不懂都是因为傲慢与偏见，并不是因为时代老去了，因为时代从未老去，只是你不再年轻。 
+- [一个老程序员的30年生涯回顾](https://mp.weixin.qq.com/s/j8lW24TeBp4TQxgbjoAh8g) 提升独立工作的能力，远离浪费生命的事情
+- [2020年中国的八个商业趋势](https://mp.weixin.qq.com/s/DDr2L4-wHjEW9aIlp-t1ew) 但凡看不懂都是因为傲慢与偏见，并不是因为时代老去了，因为时代从未老去，只是你不再年轻。
 - [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) 川大学生的深度学习笔记，很厉害
 - [B 站正在成为 Chinese YouTube](https://mp.weixin.qq.com/s/8AUZH2Xmzjll1e66vdv_pA) 优酷土豆被阿里收购后，中国 youtube 的大旗交给 B 站了
-- [Flutter+Serverless端到端研发架构实践](https://mp.weixin.qq.com/s/JHqHmb00JEMPSAQbau2FIw) lamba 工程师，未来可期 
+- [Flutter+Serverless端到端研发架构实践](https://mp.weixin.qq.com/s/JHqHmb00JEMPSAQbau2FIw) lamba 工程师，未来可期
 - [面试600人后我发现这9个面试题最好用](https://mp.weixin.qq.com/s/i_RYc-vEfmw-eBuiTL1bNA)
 - [你看盗版你还有理了？](https://mp.weixin.qq.com/s/rwXgD4b6cLTGLduEuB0AYg) 如果你玩的是盗版也没关系，毕竟盗版是最好的宣传，但玩的时候请别忘记带着羞耻心。
 - [为何Keep会出“深喉”爆料者？](https://mp.weixin.qq.com/s/EY2p_V531mdIZ7LqJeCS2Q) 把一个应该小而美产品吹那么大，迟早会要破的
@@ -76,7 +160,7 @@
 - [曾为网易创造千万营收，辞退还被启动竞业，至今在家待业，生活陷入困境](https://mp.weixin.qq.com/s/JjW23mU-JmfAotcXG2-ojw) 网易给我上了人生中最重要一课。
 - [不要再尝试函数式编程了！](https://mp.weixin.qq.com/s/fWqLhNhT4jgeEJHKbJbnlA) 正话反说，值得学习
 - [台上笑嘻嘻，台下录音笔——互联网裁员生存指南](https://www.toutiao.com/a6764197726524539396)
-- [水滴筹又出事！被曝“扫楼式”筹款，按单提成、员工月入过万、末位淘汰！](https://mp.weixin.qq.com/s/8G52ZlW343hNEC7bS9zOVw) 
+- [水滴筹又出事！被曝“扫楼式”筹款，按单提成、员工月入过万、末位淘汰！](https://mp.weixin.qq.com/s/8G52ZlW343hNEC7bS9zOVw)
 - [狂杀小县城，开店7000家！令所有网红店都恐惧的敌人火了](https://mp.weixin.qq.com/s/Ll6DSjgfdWFlsstSVbi-uA) 薄利多销，不难喝才是王道。
 - [剥完橘子不洗手，就千万别摸它！](https://mp.weixin.qq.com/s/3m27LFCAWfeLQlQkHygvLg) 芳香烃类化合物对橡胶（气球）的溶解很强，这两种物质遇到一块会发生剧烈的化学反应导致气球爆炸
 - [跑马的盆友注意啦！不懂这些术语你就尴尬了](https://www.codoon.com/iec/article/njXYSiFkjcQ=)
