@@ -2,6 +2,16 @@
 
 ---
 
+### 第 32 期 20200209
+
+> 我们总是高估今后一两年内将要发生的变革，总是低估未来10年将要发生的变革。所以，不要让你自己陷入无所作为的窘境。
+
+- [“神药”克星：随机双盲大样本](https://mp.weixin.qq.com/s/3uP3EzAEHTALpHySBHtQ3Q) 大样本排除了偶然性，随机排除了个体差异，双盲排除了主观偏向。如果中医进行随机双盲大样本实验会怎么样？
+- [一位码农的架构师封神之路](https://mp.weixin.qq.com/s/ZAlBxUyqim2KhrvKRdGGhQ) 一位架构师在[github](https://github.com/justinamiller/SoftwareArchitect) 上回顾走过的路和尝试过的东西，提出了架构师的 10 项技能：设计、决策、简化、编程、记录、沟通、估算、平衡、咨询、市场，很有借鉴意义。
+- [此时此刻，上百万人在看！](https://mp.weixin.qq.com/s/XJ8RjmC3tOt87t9wj2krfQ) 在家看 1000 多个景区，来一次虚拟旅行
+- [澳洲30万蝙蝠入侵！新型肺炎肆虐，美国流感10000人死亡，这是什么魔幻的2020年...](https://mp.weixin.qq.com/s/yfwBATxyhuqZWUseHDGGqg) 中国新型冠状病毒，美国流感，澳洲山货，大自然启动了免疫系统
+- [不一样的书单 | 社会学如何入门](https://mp.weixin.qq.com/s/cBg9v2m0XqHko9D44I1iRQ) 对社会学感兴趣的可以看看
+- [什么是复工的“马蹄钉”？——从口罩的估算讲起](https://mp.weixin.qq.com/s/EENflC3TvPyzfVCB4PNV7Q) 估算全面复工需要多少口罩，数据可能不够准，但思路还不错
 
 ### 第 31 期 20200202
 
